@@ -5,6 +5,7 @@
 #define IN 1
 
 int main() 
+
 {
   int c, nl, nc, nw, state;
   nl = nc = nw = 0;
